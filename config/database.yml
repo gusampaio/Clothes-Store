@@ -1,0 +1,7 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: clothing_store
+  host: 192.168.0.254
+  username: rails
+  password: admin
